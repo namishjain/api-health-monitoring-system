@@ -479,13 +479,11 @@ Possible future improvements include:
 
 ## Author
 
-**Pranav Paralkar**
+**Namish Jain**
 
-B.Sc. Computer Science
+GitHub: [namishjain](https://github.com/namishjain)
 
-GitHub: [PranavCodes1](https://github.com/PranavCodes1)
-
-Repository: [API Monitoring, Incident Management & Alerting System](https://github.com/PranavCodes1/api-monitoring-incident-alerting)
+Repository: [API Monitoring, Incident Management & Alerting System](https://github.com/namishjain/api-monitoring-system)
 
 ## Project Status
 
